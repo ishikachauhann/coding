@@ -1,0 +1,15 @@
+ <html>
+<head
+<title>css practice</title>
+    <script>
+        h1{
+            font-size: 40px; Color: red;
+            heigth: 100px;
+            width:100px;
+        }
+        </script>
+        </head>
+        <body>
+            <h1>CSS Stands for CASCADING STYLE SHEETS</h1>
+        </body>
+ </html>
